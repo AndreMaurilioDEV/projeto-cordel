@@ -84,12 +84,12 @@ body{
 
 @media (max-width: 800px){
     .containertexto{
-        width: 360px;
+        width: 200px;
         padding-right: 0;
     }
 
     header{
-        background-color: gray;
+        background-color: rgb(110, 107, 107);
     }
 }
 
