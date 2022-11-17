@@ -87,6 +87,10 @@ body{
         width: 360px;
         padding-right: 0;
     }
+
+    header{
+        background-color: gray;
+    }
 }
 
 
